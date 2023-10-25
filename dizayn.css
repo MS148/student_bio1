@@ -1,0 +1,39 @@
+body {
+    background-color: #d0cece
+}
+
+h1 {
+    color: white;
+    background-color: rgb(30, 30, 30);
+    text-align: center;
+    padding: 15px 0px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+h2 {
+    color: black;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.div1 {
+    
+    float: left;
+    width: 30;
+    }
+    .div2 {
+        padding: 10px;
+        float: left;
+        width: 30;
+    }
+
+    .div3 {
+        
+        float: right;
+        width: 35%;
+    }
+
+    li {
+        font-weight: bold;
+    }
